@@ -1,3 +1,4 @@
 packages/
 WebApi/bin/
 WebApi/obj/
+.vs/
