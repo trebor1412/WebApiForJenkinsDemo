@@ -2,3 +2,7 @@ packages/
 WebApi/bin/
 WebApi/obj/
 .vs/
+Library/bin/
+Library/obj/
+Test/obj/
+Test/bin/
