@@ -26,5 +26,16 @@ namespace Test
 
             Assert.AreEqual(expect, actual);
         }
+
+        [TestMethod]
+        public void TestMinus()
+        {
+            int actual;
+            int expect = 0;
+
+            actual = calculator.Add(1, 2);
+
+            Assert.AreEqual(expect, actual);
+        }
     }
 }
