@@ -33,7 +33,7 @@ namespace Test
             int actual;
             int expect = 0;
 
-            actual = calculator.Add(1, 1);
+            actual = calculator.Minus(1, 1);
 
             Assert.AreEqual(expect, actual);
         }
