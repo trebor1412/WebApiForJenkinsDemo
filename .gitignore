@@ -6,3 +6,4 @@ Library/bin/
 Library/obj/
 Test/obj/
 Test/bin/
+*.user
